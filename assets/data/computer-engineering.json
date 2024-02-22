@@ -1,0 +1,301 @@
+{
+    "vocabulary": [
+        {
+            "Computer": "Kompyuter"
+        },
+        {
+            "Software": "Dasturlama"
+        },
+        {
+            "Hardware": "Jihoz"
+        },
+        {
+            "Algorithm": "Algoritm"
+        },
+        {
+            "Programming": "Dasturlash"
+        },
+        {
+            "Code": "Kod"
+        },
+        {
+            "Data": "Ma'lumot"
+        },
+        {
+            "Binary": "Ikkiqli"
+        },
+        {
+            "Digital": "Raqamli"
+        },
+        {
+            "Microprocessor": "Mikroprotsessor"
+        },
+        {
+            "CPU (Central Processing Unit)": "TsP (Tsentrda Ishlovchilar Prosessori)"
+        },
+        {
+            "GPU (Graphics Processing Unit)": "GUO (Grafika Ishlovchilar Organlari)"
+        },
+        {
+            "Memory": "Xotira"
+        },
+        {
+            "RAM (Random Access Memory)": "RAM (Iroda Eri Olish Uchun Yod Olinadigan Xotira)"
+        },
+        {
+            "ROM (Read-Only Memory)": "ROM (Faqat O'qish Uchun Yod Olinadigan Xotira)"
+        },
+        {
+            "Cache": "Kesh"
+        },
+        {
+            "Storage": "Saqlash"
+        },
+        {
+            "Hard Drive": "Qattiq Disk"
+        },
+        {
+            "SSD (Solid State Drive)": "SSD (Solid State Disk)"
+        },
+        {
+            "Motherboard": "Ona Xotira"
+        },
+        {
+            "Circuit Board": "Skhemani Panel"
+        },
+        {
+            "BIOS (Basic Input/Output System)": "BIOS (Bosh Kiritish / Chiqarish Tizimi)"
+        },
+        {
+            "Peripheral": "Periferiya"
+        },
+        {
+            "Input Device": "Kirim Qurilmalari"
+        },
+        {
+            "Output Device": "Chiqim Qurilmalari"
+        },
+        {
+            "Monitor": "Monitor"
+        },
+        {
+            "Keyboard": "Klaviatura"
+        },
+        {
+            "Mouse": "Sichqoncha"
+        },
+        {
+            "Printer": "Printer"
+        },
+        {
+            "Scanner": "Skaner"
+        },
+        {
+            "Network": "Tarmoq"
+        },
+        {
+            "Ethernet": "Etiket"
+        },
+        {
+            "Wi-Fi": "Va-fay"
+        },
+        {
+            "Bluetooth": "Bluetooth"
+        },
+        {
+            "USB (Universal Serial Bus)": "USB (Universal Serial Bus)"
+        },
+        {
+            "Operating System": "Ishletim Tizimi"
+        },
+        {
+            "Windows": "Windows"
+        },
+        {
+            "macOS": "macOS"
+        },
+        {
+            "Linux": "Linux"
+        },
+        {
+            "Unix": "Unix"
+        },
+        {
+            "Android": "Android"
+        },
+        {
+            "iOS": "iOS"
+        },
+        {
+            "Application": "Dastur"
+        },
+        {
+            "Software Development": "Dasturlash"
+        },
+        {
+            "Compiler": "Kompilyator"
+        },
+        {
+            "Interpreter": "Interpretator"
+        },
+        {
+            "Debugging": "Debuglash"
+        },
+        {
+            "Virtualization": "Virtualizatsiya"
+        },
+        {
+            "Cloud Computing": "Bulutli Hisoblash"
+        },
+        {
+            "Server": "Server"
+        },
+        {
+            "Client": "Klient"
+        },
+        {
+            "Firewall": "Og'ir og'riq"
+        },
+        {
+            "Cybersecurity": "Kiberxavfsizlik"
+        },
+        {
+            "Encryption": "Shifrlash"
+        },
+        {
+            "Decryption": "DeShifrlash"
+        },
+        {
+            "Malware": "Malvare"
+        },
+        {
+            "Virus": "Virus"
+        },
+        {
+            "Trojan": "Trojan"
+        },
+        {
+            "Router": "Uskunalar"
+        },
+        {
+            "Switch": "Rauter"
+        },
+        {
+            "Hub": "Switch"
+        },
+        {
+            "API (Application Programming Interface)": "Hub"
+        },
+        {
+            "GUI (Graphical User Interface)": "API (Dasturlama Interfeysi)"
+        },
+        {
+            "CLI (Command Line Interface)": "GUI (Grafik Foydalanuvchi Interfeysi)"
+        },
+        {
+            "Database": "Ma'lumotlar Tizimi"
+        },
+        {
+            "SQL (Structured Query Language)": "NoSQL"
+        },
+        {
+            "NoSQL": "SQL (Tuzilgan So'rov Tili)"
+        },
+        {
+            "Web Development": "Veb Dasturlash"
+        },
+        {
+            "HTML (Hypertext Markup Language)": "CSS (Kaskadli Usullar)"
+        },
+        {
+            "JavaScript": "HTML (Gipertekst Belgilash Tili)"
+        },
+        {
+            "CSS (Cascading Style Sheets)": "JavaScript"
+        },
+        {
+            "Front-end": "Front-end"
+        },
+        {
+            "Back-end": "Front-end"
+        },
+        {
+            "Full Stack": "Back-end"
+        },
+        {
+            "Responsive Design": "Front-end"
+        },
+        {
+            "UI/UX Design": "Responsiv Dizayn"
+        },
+        {
+            "DevOps": "UI/UX Dizayn"
+        },
+        {
+            "Version Control": "Versiya Nazorati"
+        },
+        {
+            "Git": "GitHub"
+        },
+        {
+            "GitHub": "Git"
+        },
+        {
+            "Bitbucket": "GitHub"
+        },
+        {
+            "Agile": "Bitbucket"
+        },
+        {
+            "Scrum": "Agile"
+        },
+        {
+            "Kanban": "Skram"
+        },
+        {
+            "Artificial Intelligence": "Kanban"
+        },
+        {
+            "Machine Learning": "Sun'iy Intellekt"
+        },
+        {
+            "Neural Network": "Mashina O'rganishi"
+        },
+        {
+            "Robotics": "Neyron Tarmoq"
+        },
+        {
+            "Internet of Things (IoT)": "Robototexnika"
+        },
+        {
+            "Augmented Reality": "Internet of Things (IoT)"
+        },
+        {
+            "Virtual Reality": "Kengaytirilgan Realnost"
+        },
+        {
+            "Cyber-Physical Systems": "Virtual Realnost"
+        },
+        {
+            "Quantum Computing": "Kiber-jismoniy Tizimlar"
+        },
+        {
+            "Computational Complexity": "Kvant Hisoblash"
+        },
+        {
+            "Software Architecture": "Komp'yuterlarni Ishlab Chiqarish Qiyalari"
+        },
+        {
+            "Embedded Systems": "Dasturlama Arxitekturasi"
+        },
+        {
+            "Digital Signal Processing": "O'rnatilgan Tizimlar"
+        },
+        {
+            "Computer Engineering Ethics": "Raqamli Signal Ishlovchi"
+        },
+        {
+            "Emerging Technologies": "Kompyuter Injenerlik Etikosi"
+        }
+    ]
+}

@@ -1,0 +1,301 @@
+{
+    "vocabulary": [
+        {
+            "Chemical": "Kimyo"
+        },
+        {
+            "Reactor": "Reaktor"
+        },
+        {
+            "Catalyst": "Katalizator"
+        },
+        {
+            "Reaction": "Reaksiya"
+        },
+        {
+            "Distillation": "Destilyatsiya"
+        },
+        {
+            "Absorption": "Absorbtsiya"
+        },
+        {
+            "Adsorption": "Adsorbtsiya"
+        },
+        {
+            "Mass Transfer": "Massa o'tkazish"
+        },
+        {
+            "Heat Transfer": "Harorat o'tkazish"
+        },
+        {
+            "Fluid Dynamics": "Moy o'zgarishlari"
+        },
+        {
+            "Pressure": "Bosim"
+        },
+        {
+            "Temperature": "Harorat"
+        },
+        {
+            "Equilibrium": "Equilibrium"
+        },
+        {
+            "Thermodynamics": "Termodinamika"
+        },
+        {
+            "Chemical Kinetics": "Kimyo kinetika"
+        },
+        {
+            "Polymer": "Polimer"
+        },
+        {
+            "Petrochemical": "Neftokimyo"
+        },
+        {
+            "Biochemical": "Biokimyo"
+        },
+        {
+            "Nanotechnology": "Nanotexnologiya"
+        },
+        {
+            "Separation": "Bo'lish"
+        },
+        {
+            "Filtration": "Fil'tratsiya"
+        },
+        {
+            "Evaporation": "Islanish"
+        },
+        {
+            "Crystallization": "Kristallizatsiya"
+        },
+        {
+            "Extraction": "Eksktraksiya"
+        },
+        {
+            "Unit Operation": "Blok Operatsiya"
+        },
+        {
+            "Unit Process": "Blok Protsetss"
+        },
+        {
+            "Piping": "Truboprovod"
+        },
+        {
+            "Pump": "Nasos"
+        },
+        {
+            "Valve": "Kran"
+        },
+        {
+            "Heat Exchanger": "Issiqlik almashtirgich"
+        },
+        {
+            "Pressure Vessel": "Bosim sudjarasi"
+        },
+        {
+            "Chemical Plant": "Kimyo zavodi"
+        },
+        {
+            "Process Control": "Protsetss Boshqaruv"
+        },
+        {
+            "Instrumentation": "Instrumentatsiya"
+        },
+        {
+            "Mass Balance": "Massa Balansi"
+        },
+        {
+            "Energy Balance": "Energiya Balansi"
+        },
+        {
+            "Distillation Column": "Destilyatsiya Kolonka"
+        },
+        {
+            "Chemical Engineering Design": "Kimyo Injenerlik Dizayni"
+        },
+        {
+            "Safety": "Xavfsizlik"
+        },
+        {
+            "Hazardous Chemicals": "Xavfsiz Kimyoviy"
+        },
+        {
+            "Chemical Industry": "Kimyo Sanoati"
+        },
+        {
+            "Environmental Engineering": "Ekologik Injenerlik"
+        },
+        {
+            "Waste Treatment": "Atrof-muhitni Tozalash"
+        },
+        {
+            "Pollution Control": "Zo'riqishni Nazorat Qilish"
+        },
+        {
+            "Green Chemistry": "Yashil Kimyo"
+        },
+        {
+            "Biofuels": "Biotexnologiya"
+        },
+        {
+            "Reaction Engineering": "Reaksiya Injenerlik"
+        },
+        {
+            "Fluidized Bed": "Moylashtirilgan Daryo"
+        },
+        {
+            "Mass Spectrometry": "Khromatografiya"
+        },
+        {
+            "Chromatography": "Kimyo Tahlili"
+        },
+        {
+            "Chemical Analysis": "Sifatni Nazorat Qilish"
+        },
+        {
+            "Quality Control": "Kimyo Xavfsizlik"
+        },
+        {
+            "Chemical Safety": "Portsiya Ishlab Chiqarish"
+        },
+        {
+            "Batch Processing": "Dastaviy Ishlab Chiqarish"
+        },
+        {
+            "Continuous Processing": "Kimyo Urushi"
+        },
+        {
+            "Chemical Equation": "Kimyo Tugun"
+        },
+        {
+            "Chemical Formula": "Kimyo Loyihasi"
+        },
+        {
+            "Chemical Bond": "Issiqlik Qaytaqilish"
+        },
+        {
+            "Stoichiometry": "Reaktor Dizayni"
+        },
+        {
+            "Chemical Plant Layout": "Biokimyo Injenerlik"
+        },
+        {
+            "Heat Recovery": "Kimyo Injenerlik Termodinamikasi"
+        },
+        {
+            "Reactor Design": "Kimyo Sintez"
+        },
+        {
+            "Biochemical Engineering": "Yuza Suvi"
+        },
+        {
+            "Chemical Engineering Thermodynamics": "Kimyo Instrumetatlari"
+        },
+        {
+            "Chemical Synthesis": "Kimyo Kinetika"
+        },
+        {
+            "Surface Chemistry": "Kimyo Equilibrium"
+        },
+        {
+            "Chemical Instrumentation": "Kimyo Tafakkur"
+        },
+        {
+            "Chemical Kinetics": "Kimyo Ta'qiqoti"
+        },
+        {
+            "Chemical Equilibrium": "Kimyo Tovushlash"
+        },
+        {
+            "Chemical Research": "Materiallar Ilmi"
+        },
+        {
+            "Materials Science": "Kimyo Ishlab Chiqarish"
+        },
+        {
+            "Chemical Manufacturing": "Kimyo Reaksiyasi Injenerlik"
+        },
+        {
+            "Chemical Reaction Engineering": "Membran Texnologiyasi"
+        },
+        {
+            "Membrane Technology": "Protsetss Injenerlik"
+        },
+        {
+            "Process Engineering": "Materiallar Balansi"
+        },
+        {
+            "Material Balance": "Moydagi Mekhanika"
+        },
+        {
+            "Fluid Mechanics": "Reaksiya Mekhanizmi"
+        },
+        {
+            "Reaction Mechanism": "Xavfkorlik Injenerlik"
+        },
+        {
+            "Corrosion Engineering": "Kimyo Tahlili"
+        },
+        {
+            "Chemical Analysis": "Bioprotsess Injenerlik"
+        },
+        {
+            "Bioprocess Engineering": "Nuklear Injenerlik"
+        },
+        {
+            "Nuclear Engineering": "Oziq Ovqat Injenerlik"
+        },
+        {
+            "Food Engineering": "Doriy Tovushlash"
+        },
+        {
+            "Pharmaceutical Engineering": "Protsessni Optimallashtirish"
+        },
+        {
+            "Solvent Extraction": "Kimyo Qolipligi"
+        },
+        {
+            "Process Optimization": "Kimyo O'zgarishi"
+        },
+        {
+            "Chemical Residue": "Rheologiya"
+        },
+        {
+            "Rheology": "Elektrokimyo"
+        },
+        {
+            "Chemical Separation": "Kimyo Hususiyati"
+        },
+        {
+            "Electrochemistry": "Protsess Injenerlik"
+        },
+        {
+            "Chemical Engineer": "Protsess Simulyatsiyasi"
+        },
+        {
+            "Process Engineering": "Issiqlik Almashtirish Uchun Qurilma"
+        },
+        {
+            "Process Simulation": "Kimyo Sanoati Tendensiyalari"
+        },
+        {
+            "Heat Transfer Equipment": "Energiya Balansi"
+        },
+        {
+            "Chemical Industry Trends": "Kimyo Zavod Iqtisodiyoti"
+        },
+        {
+            "Petrochemical Plant": "Protsetss Xavfsizlik"
+        },
+        {
+            "Chemical Plant Economics": "Kimyo Zavod Qurilmasi"
+        },
+        {
+            "Process Safety": "Protsess Xavfsizligi"
+        },
+        {
+            "Chemical Plant Construction": "Kimyo Zavod Binoilari"
+        }
+    ]
+}

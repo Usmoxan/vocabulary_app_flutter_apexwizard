@@ -1,0 +1,304 @@
+{
+    "vocabulary": [
+        {
+            "Atom": "Atom"
+        },
+        {
+            "Nucleus": "Nukleus"
+        },
+        {
+            "Particle": "Zarrak"
+        },
+        {
+            "Isotope": "Izotop"
+        },
+        {
+            "Neutron": "Neutron"
+        },
+        {
+            "Proton": "Proton"
+        },
+        {
+            "Electron": "Elektron"
+        },
+        {
+            "Radiation": "Radiatsiya"
+        },
+        {
+            "Radioactive": "Radioaktiv"
+        },
+        {
+            "Decay": "Zarraklanish"
+        },
+        {
+            "Half-life": "Yarim hayot"
+        },
+        {
+            "Fission": "Fissiya"
+        },
+        {
+            "Fusion": "Fyuziya"
+        },
+        {
+            "Reactor": "Reaktor"
+        },
+        {
+            "Core": "Markaz"
+        },
+        {
+            "Fuel Rod": "Top Ovqat"
+        },
+        {
+            "Moderator": "Moderatori"
+        },
+        {
+            "Control Rod": "Boshqaruvchi"
+        },
+        {
+            "Chain Reaction": "Zanjir Reaksiyasi"
+        },
+        {
+            "Critical Mass": "Kritik Massa"
+        },
+        {
+            "Nuclear Energy": "Nuklear Energiya"
+        },
+        {
+            "Nuclear Power": "Nuklear Quvvat"
+        },
+        {
+            "Nuclear Physics": "Nuklear Fizika"
+        },
+        {
+            "Nuclear Reaction": "Nuklear Reaksiya"
+        },
+        {
+            "Radioactivity": "Radioaktivlik"
+        },
+        {
+            "Nuclear Force": "Nuklear Kuch"
+        },
+        {
+            "Alpha Particle": "Alfa Zarrak"
+        },
+        {
+            "Beta Particle": "Beta Zarrak"
+        },
+        {
+            "Gamma Ray": "Gamma Luch"
+        },
+        {
+            "Neutrino": "Neutrino"
+        },
+        {
+            "Isotopic Composition": "Izotop Tuzilishi"
+        },
+        {
+            "Nuclear Binding Energy": "Nuklear Bog'lanish Energiyasi"
+        },
+        {
+            "Nuclear Stability": "Nuklear Stabilnost"
+        },
+        {
+            "Nuclear Decay Equation": "Nuklear Zarraklanish Tizimi"
+        },
+        {
+            "Neutron Activation": "Neutron Aktivlashishi"
+        },
+        {
+            "Nuclear Cross Section": "Nuklear Kesim"
+        },
+        {
+            "Scintillation": "Sintillyatsiya"
+        },
+        {
+            "Dosimetry": "Dozimetriya"
+        },
+        {
+            "Radiography": "Radiografiya"
+        },
+        {
+            "Neutron Radiography": "Neutron Radiografiyasi"
+        },
+        {
+            "Positron Emission": "Pozitron Emitatsiya"
+        },
+        {
+            "Tritium": "Tritiy"
+        },
+        {
+            "Plutonium-239": "Plutonyum-239"
+        },
+        {
+            "Uranium-235": "Uran-235"
+        },
+        {
+            "Enrichment": "Arrish"
+        },
+        {
+            "Depletion": "Qo'shimcha"
+        },
+        {
+            "Criticality": "Kritikallik"
+        },
+        {
+            "Shielding": "Himoya"
+        },
+        {
+            "Containment": "Kuchlanish Sohasi"
+        },
+        {
+            "Emergency Cooling": "Darhol Eski Sochiq"
+        },
+        {
+            "Breeder Reactor": "Quritilgan Neutron"
+        },
+        {
+            "Fast Neutron": "Isitilgan Neutron"
+        },
+        {
+            "Thermal Neutron": "Sukunatgich Suvi Reaktori (PWR)"
+        },
+        {
+            "Pressurized Water Reactor (PWR)": "Qayniq Suvi Reaktori (BWR)"
+        },
+        {
+            "Boiling Water Reactor (BWR)": "Nuklear Yomoni"
+        },
+        {
+            "Nuclear Meltdown": "Nuklear O'chqarish"
+        },
+        {
+            "Nuclear Waste Disposal": "Sarflangan Top"
+        },
+        {
+            "Spent Fuel": "Qayta Ishlangan Top"
+        },
+        {
+            "Reprocessing": "Kritika"
+        },
+        {
+            "Nuclear Regulatory Commission (NRC)": "Darhol Korxona"
+        },
+        {
+            "Nuclear Safety": "Nuklear Regulyatsiya Komissiyasi (NRK)"
+        },
+        {
+            "Nuclear Accident": "Nuklear Xavfsizlik"
+        },
+        {
+            "Chernobyl": "Chernobyl"
+        },
+        {
+            "Fukushima": "Nuklear Bemorlik"
+        },
+        {
+            "Radioactive Contamination": "Fukushima"
+        },
+        {
+            "Nuclear Medicine": "Radioaktiv Kontaminatsiya"
+        },
+        {
+            "Radiotherapy": "Nuklear Tibbiyot"
+        },
+        {
+            "Radiopharmaceuticals": "Radioterapiya"
+        },
+        {
+            "Isotopic Tracers": "Radiofarmatsevtik"
+        },
+        {
+            "Nuclear Imaging": "Izotop O'lchash"
+        },
+        {
+            "Gamma Camera": "Nuklear Tasvir"
+        },
+        {
+            "Positron Emission Tomography (PET)": "Gamma Kamera"
+        },
+        {
+            "Nuclear Magnetic Resonance (NMR)": "Pozitron Emitatsiya Tomografiyasi (PET)"
+        },
+        {
+            "Nuclear Fusion Research": "Nuklear Magnetik Rezonans (NMR)"
+        },
+        {
+            "Tokamak": "Nuklear Fyuziya Tadqiqotlari"
+        },
+        {
+            "Inertial Confinement Fusion (ICF)": "Tokamak"
+        },
+        {
+            "Magnetic Confinement Fusion": "Bezatilgan Ushlanish Fyuziyasi (ICF)"
+        },
+        {
+            "Nuclear Astrophysics": "Magnetik Ushlanish Fyuziyasi"
+        },
+        {
+            "Nuclear Astrophysical Reactions": "Nuklear Astrafizika"
+        },
+        {
+            "Nuclear Astrophysical Models": "Nuklear Astrafizik Reaksiyalari"
+        },
+        {
+            "Nuclear Forensics": "Nuklear Astrafizik Modellari"
+        },
+        {
+            "Non-Proliferation": "Nuklear Foresnsika"
+        },
+        {
+            "Arms Control": "Nukleer Non-Proliferatsiya"
+        },
+        {
+            "Nuclear Treaty": "Silahlar Boshqarish"
+        },
+        {
+            "Comprehensive Test Ban Treaty (CTBT)": "Nuklear Shartnomasi"
+        },
+        {
+            "International Atomic Energy Agency (IAEA)": "Ummuman Test Etishning Cheklanishi Shartnomasi (CTBT)"
+        },
+        {
+            "Nuclear Security": "Xalqaro Atom Energiya Agentligi (IAEA)"
+        },
+        {
+            "Radioactive Dating": "Nuklear Xavfsizlik"
+        },
+        {
+            "Carbon-14 Dating": "Radioaktiv Tanishuv"
+        },
+        {
+            "Nuclear Instrumentation": "Uglekisli-14 Tanishuvi"
+        },
+        {
+            "Scintillation Detector": "Nuklear Instrumentatsiya"
+        },
+        {
+            "Gamma Spectroscopy": "Sintillyatsiya Detektori"
+        },
+        {
+            "Neutron Detection": "Gamma Spektroskopiya"
+        },
+        {
+            "Radiation Monitoring": "Neutron Tanishuvi"
+        },
+        {
+            "Nuclear Instrument Calibration": "Radiatsiya Monitoringi"
+        },
+        {
+            "Nuclear Physics Laboratory": "Nuklear Instrumentlar Kalibratsiyasi"
+        },
+        {
+            "Fusion Energy Research": "Nuklear Fizika Laboratoriyasi"
+        },
+        {
+            "Nuclear Fusion Plasma": "Fyuziya Energetikasi Tadqiqoti"
+        },
+        {
+            "Nuclear Fusion Experiments": "Fyuziya Nukleus"
+        },
+        {
+            "Nuclear Engineering Education": "Fyuziya Tadqiqotlari"
+        }
+    ]
+}

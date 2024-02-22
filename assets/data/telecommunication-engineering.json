@@ -1,0 +1,298 @@
+{
+    "vocabulary": [
+        {
+            "Telecommunications": "Telekommunikatsiya"
+        },
+        {
+            "Communication": "Aloqa"
+        },
+        {
+            "Network": "Tarmoq"
+        },
+        {
+            "Wireless": "Sifatli"
+        },
+        {
+            "Fiber Optics": "Optika Nurlar"
+        },
+        {
+            "Satellite": "Satelit"
+        },
+        {
+            "Transmission": "Uchish"
+        },
+        {
+            "Reception": "Qabul qilish"
+        },
+        {
+            "Modulation": "Modulyatsiya"
+        },
+        {
+            "Demodulation": "Demodulyatsiya"
+        },
+        {
+            "Bandwidth": "Bandvichlik"
+        },
+        {
+            "Frequency": "Chastota"
+        },
+        {
+            "Signal": "Signal"
+        },
+        {
+            "Data": "Ma'lumot"
+        },
+        {
+            "Voice": "Ovoz"
+        },
+        {
+            "Video": "Video"
+        },
+        {
+            "Internet": "Internet"
+        },
+        {
+            "Protocol": "Protokol"
+        },
+        {
+            "Router": "Router"
+        },
+        {
+            "Switch": "Switch"
+        },
+        {
+            "Antenna": "Antenna"
+        },
+        {
+            "Amplifier": "Amplifikator"
+        },
+        {
+            "Transmitter": "Uchadigan"
+        },
+        {
+            "Receiver": "Qabul qiluvchi"
+        },
+        {
+            "Multiplexing": "Multiplexing"
+        },
+        {
+            "Demultiplexing": "Demultiplexing"
+        },
+        {
+            "Duplex": "Duplex"
+        },
+        {
+            "Simplex": "Simplex"
+        },
+        {
+            "Modem": "Modem"
+        },
+        {
+            "Codec": "Kodirlov"
+        },
+        {
+            "Encryption": "Dekodirlov"
+        },
+        {
+            "Decryption": "Protokol Stakani"
+        },
+        {
+            "Ethernet": "Ethernet"
+        },
+        {
+            "IP Address": "IP manzil"
+        },
+        {
+            "Subnet": "Subnet"
+        },
+        {
+            "Firewall": "Firewall"
+        },
+        {
+            "VPN (Virtual Private Network)": "VPN (Virtual Xususiy Tarmoq)"
+        },
+        {
+            "Latency": "Latentsiya"
+        },
+        {
+            "Packet": "Paket"
+        },
+        {
+            "Routing": "Routing"
+        },
+        {
+            "VoIP (Voice over Internet Protocol)": "VoIP (Internet ovozi protokoli)"
+        },
+        {
+            "5G": "5G"
+        },
+        {
+            "4G": "4G"
+        },
+        {
+            "3G": "3G"
+        },
+        {
+            "LTE (Long-Term Evolution)": "LTE (Uzoq muddatli evolutsiya)"
+        },
+        {
+            "MIMO (Multiple Input, Multiple Output)": "MIMO (Ko'p kiritish, ko'p chiqarish)"
+        },
+        {
+            "IoT (Internet of Things)": "IoT (Vasvasa)"
+        },
+        {
+            "Cloud Computing": "Bulutli Hisoblash"
+        },
+        {
+            "Cybersecurity": "Kiber-xavfsizlik"
+        },
+        {
+            "Mobile Network": "Mobil tarmoq"
+        },
+        {
+            "Base Station": "Bazalar"
+        },
+        {
+            "Cell": "Qutisi"
+        },
+        {
+            "Tower": "Boshqaruv markazi"
+        },
+        {
+            "Handover": "Qo'ng'iroq"
+        },
+        {
+            "Roaming": "Roaming"
+        },
+        {
+            "SIP (Session Initiation Protocol)": "SIP (Session Initiation Protocol)"
+        },
+        {
+            "LAN (Local Area Network)": "LAN (Mahalliy tarmoq)"
+        },
+        {
+            "WAN (Wide Area Network)": "WAN (Katta sahna tarmoqi)"
+        },
+        {
+            "MAN (Metropolitan Area Network)": "MAN (Metropoliten tarmoqi)"
+        },
+        {
+            "Telephony": "Telefonlash"
+        },
+        {
+            "ISDN (Integrated Services Digital Network)": "ISDN (Integratsiyalangan xizmatlar raqamli tarmoq)"
+        },
+        {
+            "PSTN (Public Switched Telephone Network)": "PSTN (Umumiy switch telefon tarmoqi)"
+        },
+        {
+            "PBX (Private Branch Exchange)": "PBX (Shaxsiy filial almashinuvi)"
+        },
+        {
+            "SIP Trunking": "SIP Trunking"
+        },
+        {
+            "Fibre Channel": "Optik tarmoq"
+        },
+        {
+            "QoS (Quality of Service)": "Xizmat sifati (QoS)"
+        },
+        {
+            "Jitter": "Jitter"
+        },
+        {
+            "Bitrate": "Bit tezligi"
+        },
+        {
+            "Mesh Network": "Tarmoq chiziqlari"
+        },
+        {
+            "CDN (Content Delivery Network)": "CDN (Mazmunni yetkazish tarmoqi)"
+        },
+        {
+            "DNS (Domain Name System)": "DNS (Domen nomi tizimi)"
+        },
+        {
+            "DHCP (Dynamic Host Configuration Protocol)": "DHCP (Dinamik mеnі homiladori protokoli)"
+        },
+        {
+            "NAT (Network Address Translation)": "NAT (Tarmoq manzili tarjimoti)"
+        },
+        {
+            "OSI Model": "OSI Modeli"
+        },
+        {
+            "Telecommunication Standards": "Telekommunikatsiya standartlari"
+        },
+        {
+            "IEEE (Institute of Electrical and Electronics Engineers)": "IEEE (Elektr energiya va elektronika instituti)"
+        },
+        {
+            "ITU (International Telecommunication Union)": "ITU (Xalqaro telekommunikatsiya ittifoqi)"
+        },
+        {
+            "RF (Radio Frequency)": "RF (Radio chastotalari)"
+        },
+        {
+            "Microwave": "Mikrovolnovka"
+        },
+        {
+            "Infrared": "Infrakrasa"
+        },
+        {
+            "Bluetooth": "Bluetooth"
+        },
+        {
+            "NFC (Near Field Communication)": "NFC (Yaqin joy kommunikatsiyasi)"
+        },
+        {
+            "Zigbee": "Zigbee"
+        },
+        {
+            "RFID (Radio-Frequency Identification)": "RFID (Radio-chastotali identifikatsiya)"
+        },
+        {
+            "WAN Optimization": "WAN Optimizatsiya"
+        },
+        {
+            "Telecommunication Infrastructure": "Telekommunikatsiya Infrastruktura"
+        },
+        {
+            "Optical Network": "Optik Tarmoq"
+        },
+        {
+            "Fiber to the Home (FTTH)": "Uyga Fiber (FTTH)"
+        },
+        {
+            "Telecommunication Satellite": "Telekommunikatsiya Sateliti"
+        },
+        {
+            "VSAT (Very Small Aperture Terminal)": "VSAT (Juda kichik aperture terminali)"
+        },
+        {
+            "Telecommunication Tower": "Telekommunikatsiya bashqarma"
+        },
+        {
+            "Telecommunication Cable": "Telekommunikatsiya kabeli"
+        },
+        {
+            "Telecommunication Equipment": "Telekommunikatsiya uskunalari"
+        },
+        {
+            "Telecommunication Technician": "Telekommunikatsiya texnikasi"
+        },
+        {
+            "Telecommunication Engineer": "Telekommunikatsiya muhandisi"
+        },
+        {
+            "Telecommunication Protocol": "Telekommunikatsiya protokoli"
+        },
+        {
+            "Telecommunication Software": "Telekommunikatsiya dasturi"
+        },
+        {
+            "Telecommunication Security": "Telekommunikatsiya xavfsizligi"
+        }
+    ]
+}

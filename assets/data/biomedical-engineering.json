@@ -1,0 +1,304 @@
+{
+    "vocabulary": [
+        {
+            "Biomedical": "Tibbiyot Injeneriyasi"
+        },
+        {
+            "Engineering": "Injenering"
+        },
+        {
+            "Biotechnology": "Biotexnologiya"
+        },
+        {
+            "Medical Devices": "Tibbiy Qurilmalar"
+        },
+        {
+            "Prosthetics": "Protetikalar"
+        },
+        {
+            "Biomaterials": "Biomateriallar"
+        },
+        {
+            "Biocompatibility": "Biokompatibilitet"
+        },
+        {
+            "Bioinformatics": "Bioinformatika"
+        },
+        {
+            "Genetic Engineering": "Genetika Injeneriyasi"
+        },
+        {
+            "Biomechanics": "Biomekhanika"
+        },
+        {
+            "Bioprocessing": "Bioprosessing"
+        },
+        {
+            "Tissue Engineering": "Tisullar Injeneriyasi"
+        },
+        {
+            "Regenerative Medicine": "Regenerativ Tibbiyat"
+        },
+        {
+            "Medical Imaging": "Tibbiy Tajribaviyot"
+        },
+        {
+            "Ultrasound": "Uzatma"
+        },
+        {
+            "Magnetic Resonance Imaging (MRI)": "Magnetik Rezonans Tashqi Korxona (MRI)"
+        },
+        {
+            "Computed Tomography (CT)": "Kompyuterli Tomografiya (KT)"
+        },
+        {
+            "Positron Emission Tomography (PET)": "Pozitron Emitatsiya Tomografiyasi (PET)"
+        },
+        {
+            "X-ray": "Rentgen"
+        },
+        {
+            "Nuclear Medicine": "Nuklear Tibbiyat"
+        },
+        {
+            "Telemedicine": "Telemeditsina"
+        },
+        {
+            "Wearable Devices": "O'rnatilgan Qurilmalar"
+        },
+        {
+            "Nanotechnology": "Nano Texnologiya"
+        },
+        {
+            "Biosensors": "Biosensorlar"
+        },
+        {
+            "Lab-on-a-Chip": "Labo-Chip"
+        },
+        {
+            "Synthetic Biology": "Sintetik Biologiya"
+        },
+        {
+            "Medical Robotics": "Tibbiy Robototexnika"
+        },
+        {
+            "Bionics": "Bionika"
+        },
+        {
+            "Rehabilitation Engineering": "Reabilitatsiya Injeneriyasi"
+        },
+        {
+            "Drug Delivery": "Dori yetkazib berish"
+        },
+        {
+            "Pharmacology": "Farmakologiya"
+        },
+        {
+            "Pharmaceutical Engineering": "Farmatsevtika Injeneriyasi"
+        },
+        {
+            "Biopharmaceuticals": "Biopharmatsevtikalar"
+        },
+        {
+            "Clinical Engineering": "Klinik Injeneriyasi"
+        },
+        {
+            "Health Informatics": "Terviyadagi Ma'lumotlar"
+        },
+        {
+            "Electronic Health Records (EHR)": "Elektron Tibbiyat Kartasi (ETK)"
+        },
+        {
+            "Patient Monitoring": "Bemor Monitoringi"
+        },
+        {
+            "Diagnostic Equipment": "Diagnostik Qurilmalar"
+        },
+        {
+            "Therapeutic Devices": "Terapevtik Qurilmalar"
+        },
+        {
+            "Medical Instrumentation": "Tibbiy Instrumentlar"
+        },
+        {
+            "Bioprinting": "Bioprinting"
+        },
+        {
+            "Organ Transplantation": "Organ Transplantatsiyasi"
+        },
+        {
+            "Artificial Organs": "Sun'iy Organlar"
+        },
+        {
+            "Dental Engineering": "Stomatologiya Injeneriyasi"
+        },
+        {
+            "Biostatistics": "Biostatistika"
+        },
+        {
+            "Epidemiology": "Epidemiologiya"
+        },
+        {
+            "Healthcare Technology": "Salomatlik Texnologiyasi"
+        },
+        {
+            "Precision Medicine": "Qiymatli Tibbiyot"
+        },
+        {
+            "Medical Simulation": "Tibbiy Simulyatsiya"
+        },
+        {
+            "Virtual Reality in Healthcare": "Tibbiy Realiti"
+        },
+        {
+            "Augmented Reality in Medicine": "Tibbiyda Kengaytirilgan Realiti"
+        },
+        {
+            "Bioethics": "Bioetika"
+        },
+        {
+            "Medical Ethics": "Tibbiy Etika"
+        },
+        {
+            "Health Economics": "Sog'liqni Saqlash"
+        },
+        {
+            "Healthcare Management": "Sog'liqni Boshqarish"
+        },
+        {
+            "Quality Control in Healthcare": "Sog'liqni Menejmenti"
+        },
+        {
+            "Rehabilitation Technology": "Reabilitatsiya Injeneriyasi"
+        },
+        {
+            "Neuromodulation": "Neiromodulyatsiya"
+        },
+        {
+            "Neural Engineering": "Neyral Injeneriyasi"
+        },
+        {
+            "Cardiovascular Engineering": "Kardiovaskulyar Injeneriyasi"
+        },
+        {
+            "Respiratory Engineering": "Nafas Injeneriyasi"
+        },
+        {
+            "Gastrointestinal Engineering": "Miotorni Injeneriyasi"
+        },
+        {
+            "Neuroprosthetics": "Neyroprotetikalar"
+        },
+        {
+            "Bioinformatics": "Bioinformatika"
+        },
+        {
+            "Systems Biology": "Tizimlar Biologiyasi"
+        },
+        {
+            "Metabolic Engineering": "Metabolik Injeneriyasi"
+        },
+        {
+            "Clinical Trials": "Klinik Testlar"
+        },
+        {
+            "Biochemical Engineering": "Biokimyo Injeneriyasi"
+        },
+        {
+            "Cellular Engineering": "Selligi Injeneriyasi"
+        },
+        {
+            "Molecular Biology": "Molekulyar Biologiya"
+        },
+        {
+            "Genomics": "Genomika"
+        },
+        {
+            "Proteomics": "Proteomika"
+        },
+        {
+            "Immunology": "Immunologiya"
+        },
+        {
+            "Microbiology": "Mikrobiologiya"
+        },
+        {
+            "Biochemistry": "Biokimyo"
+        },
+        {
+            "Physiology": "Fiziologiya"
+        },
+        {
+            "Anatomy": "Anatomiya"
+        },
+        {
+            "Biophysics": "Biofizika"
+        },
+        {
+            "Medical Physics": "Tibbiy Fizika"
+        },
+        {
+            "Computational Biology": "Kompyuterli Biologiya"
+        },
+        {
+            "Medical Data Mining": "Tibbiy Ma'lumotlarni O'lchash"
+        },
+        {
+            "Health Monitoring": "Sog'liqni Monitoringi"
+        },
+        {
+            "Cybersecurity in Healthcare": "Sog'liqni Kiberxavfsizlik"
+        },
+        {
+            "Point-of-Care Testing": "Joylashtirilgan Sinovlar"
+        },
+        {
+            "Pathology": "Patologiya"
+        },
+        {
+            "Histology": "Histologiya"
+        },
+        {
+            "Radiology": "Radiologiya"
+        },
+        {
+            "Hematology": "Gematologiya"
+        },
+        {
+            "Virology": "Virusologiya"
+        },
+        {
+            "Immunotherapy": "Immunoterapiya"
+        },
+        {
+            "Cell Therapy": "Qon Omborini Tiklash"
+        },
+        {
+            "Stem Cell Research": "Neyron Terapiya"
+        },
+        {
+            "Antibody Engineering": "Antigen Terapiya"
+        },
+        {
+            "Gene Therapy": "Gen Terapiya"
+        },
+        {
+            "Vaccinology": "Vaksinologiya"
+        },
+        {
+            "Medical Imaging Contrast Agents": "Tibbiy Tasvirlov Kontrast Agentlari"
+        },
+        {
+            "Healthcare Nanomaterials": "Sog'liqni Nano Materiallari"
+        },
+        {
+            "Bioresorbable Materials": "Bioqarzdosh Materiallar"
+        },
+        {
+            "3D Bioprinted Organs": "3D Bioprinting Qilingan Organlar"
+        },
+        {
+            "Health Sciences": "Sog'liqni Fanlari"
+        }
+    ]
+}

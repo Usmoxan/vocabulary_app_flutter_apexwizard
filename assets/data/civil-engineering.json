@@ -1,0 +1,304 @@
+{
+    "vocabulary": [
+        {
+            "Structural Engineering": "Struktur Mexanika"
+        },
+        {
+            "Geotechnical Engineering": "Geotexnika Mexanika"
+        },
+        {
+            "Environmental Engineering": "Atrof-tadbirkor Mexanika"
+        },
+        {
+            "Transportation Engineering": "Transport Mexanika"
+        },
+        {
+            "Surveying": "Landshaft Surveylash"
+        },
+        {
+            "Construction Management": "Qurilish Boshqaruv"
+        },
+        {
+            "Concrete": "Beton"
+        },
+        {
+            "Steel": "Temir"
+        },
+        {
+            "Reinforcement": "Qo'llab-quvvatlash"
+        },
+        {
+            "Foundation": "Asos"
+        },
+        {
+            "Retaining Wall": "Devor Savatlash"
+        },
+        {
+            "Slope Stability": "Tezlik"
+        },
+        {
+            "Earthquake Engineering": "Zilzila Mexanika"
+        },
+        {
+            "Traffic Engineering": "Yo'l Mexanika"
+        },
+        {
+            "Bridge": "Ko'prik"
+        },
+        {
+            "Highway": "Yo'l"
+        },
+        {
+            "Pavement": "Yo'l Otlovi"
+        },
+        {
+            "Tunneling": "Yo'l Yo'laklari"
+        },
+        {
+            "Land Development": "Yengilash"
+        },
+        {
+            "Water Resources Engineering": "Suvaruvchi Sanoat Mexanika"
+        },
+        {
+            "Hydrology": "Gidrologiya"
+        },
+        {
+            "Hydraulics": "Gidravlika"
+        },
+        {
+            "Stormwater Management": "Qushimcha Qurolsizlik"
+        },
+        {
+            "Dams": "Bend"
+        },
+        {
+            "Irrigation": "Suvaruvchilar"
+        },
+        {
+            "Environmental Impact Assessment": "Yopiq Joylar"
+        },
+        {
+            "Geosynthetics": "Ekologik Ta'sirni Baholash"
+        },
+        {
+            "Excavation": "Geosintetiklar"
+        },
+        {
+            "Grading": "Kuchaytirish"
+        },
+        {
+            "Cut and Fill": "Kuch-tirish"
+        },
+        {
+            "Land Surveying": "Tovushlar Surveylash"
+        },
+        {
+            "Topography": "Topografiya"
+        },
+        {
+            "GIS (Geographic Information System)": "GIS (Geografik Ma'lumotlar Tizimi)"
+        },
+        {
+            "Remote Sensing": "Uzoqdan Yuritish"
+        },
+        {
+            "Construction Materials": "Qurilish Materiallari"
+        },
+        {
+            "Asphalt": "Asfalt"
+        },
+        {
+            "Bitumen": "Bitum"
+        },
+        {
+            "Geogrid": "Geogrid"
+        },
+        {
+            "Slope Protection": "Tezlatish"
+        },
+        {
+            "Road Design": "Yo'l Dizayni"
+        },
+        {
+            "Traffic Control": "Trafik Nizomi"
+        },
+        {
+            "Transportation Planning": "Transportniy Planlash"
+        },
+        {
+            "Soil Mechanics": "Yer Mexanikasi"
+        },
+        {
+            "Settlement": "To'simlik"
+        },
+        {
+            "Bearing Capacity": "O'q Olish"
+        },
+        {
+            "Landfills": "Tomorqa Joylar"
+        },
+        {
+            "Stormwater Runoff": "Fexrlar"
+        },
+        {
+            "Coastal Engineering": "Seysmik Dizayn"
+        },
+        {
+            "Seismic Design": "Struktur Analizi"
+        },
+        {
+            "Structural Analysis": "Yuk Taqsimoti"
+        },
+        {
+            "Load Distribution": "Binolarni Tartiblash"
+        },
+        {
+            "Building Codes": "Uy Qoidalari"
+        },
+        {
+            "Masonry": "Qimmatbaho"
+        },
+        {
+            "Timber Structures": "Hayotiy Strukturalar"
+        },
+        {
+            "Reinforced Concrete": "Quvvatlashgan Beton"
+        },
+        {
+            "Prestressed Concrete": "Prestressed Beton"
+        },
+        {
+            "Formwork": "Shablon"
+        },
+        {
+            "Structural Steel": "Temir Temir"
+        },
+        {
+            "Foundation Design": "Asos Dizayni"
+        },
+        {
+            "Shoring": "Tiklash"
+        },
+        {
+            "Construction Equipment": "Qurilish Texnikasi"
+        },
+        {
+            "Crane": "Kran"
+        },
+        {
+            "Excavator": "Ekskavator"
+        },
+        {
+            "Bulldozer": "Buldozer"
+        },
+        {
+            "Compaction": "Tiqish"
+        },
+        {
+            "Pile Foundation": "Palqa Asos"
+        },
+        {
+            "Earthmoving": "Yer O'chirish"
+        },
+        {
+            "Subgrade": "Suvarish"
+        },
+        {
+            "Water Retaining Structures": "Suvaruvchi Joylar"
+        },
+        {
+            "Water Treatment Plants": "Suvarma Bitkilar"
+        },
+        {
+            "Sewage Systems": "Kanalizatsiya Tizimlari"
+        },
+        {
+            "Stormwater Drainage": "Yomg'ir Suvlar"
+        },
+        {
+            "Geophysical Exploration": "Fizika Bemorlik"
+        },
+        {
+            "Grouting": "Quring"
+        },
+        {
+            "Geohazard": "Geoxavf"
+        },
+        {
+            "Urban Planning": "Shahar Planlash"
+        },
+        {
+            "Green Building": "Yashil Bino"
+        },
+        {
+            "LEED (Leadership in Energy and Environmental Design)": "LEED (Energetika va Ekologik Dizaynning Raxbariyati)"
+        },
+        {
+            "Building Information Modeling (BIM)": "Bina Ma'lumotlar Modeli (BIM)"
+        },
+        {
+            "Project Management": "Loihahonaviy Boshqaruv"
+        },
+        {
+            "Cost Estimation": "Narxlarni Baholash"
+        },
+        {
+            "Quantity Surveying": "Miqdor Tahlili"
+        },
+        {
+            "Risk Management": "Kutilayotgan Risklar"
+        },
+        {
+            "Construction Contracts": "Qurilish Shartnomalari"
+        },
+        {
+            "Geotechnical Investigation": "Geotexnik Tadqiqot"
+        },
+        {
+            "Seepage": "Soqovlanish"
+        },
+        {
+            "Shear Strength": "Qusurlilik"
+        },
+        {
+            "Structural Health Monitoring": "Struktur Saqlashni Monitoring Qilish"
+        },
+        {
+            "Coastal Protection": "Suv Xavfi"
+        },
+        {
+            "Earth Embankment": "Yer O'rtasi"
+        },
+        {
+            "Liquefaction": "Suyuqlik"
+        },
+        {
+            "Bridge Inspection": "Ko'prikni Tekshirish"
+        },
+        {
+            "Pavement Design": "Yo'l Otlovi Dizayni"
+        },
+        {
+            "Earthmoving Equipment": "Yer O'chiruvchi Texnika"
+        },
+        {
+            "Geotechnical Instrumentation": "Geotexnika Instrumentlari"
+        },
+        {
+            "Water Table": "Su Mavzusi"
+        },
+        {
+            "Slope Stability Analysis": "Devor Savatlash Tahlili"
+        },
+        {
+            "Soil Erosion": "Yer Sanoati"
+        },
+        {
+            "Project Scheduling": "Loyiha Jadvali"
+        },
+        {
+            "Retaining Wall Design": "Devor Savatlash Dizayni"
+        }
+    ]
+}

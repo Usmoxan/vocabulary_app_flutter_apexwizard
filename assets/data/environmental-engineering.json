@@ -1,0 +1,298 @@
+{
+    "vocabulary": [
+        {
+            "Environmental": "Ekologiya"
+        },
+        {
+            "Engineering": "Injenering"
+        },
+        {
+            "Sustainability": "Ustiqbolish"
+        },
+        {
+            "Ecosystem": "Ekosistema"
+        },
+        {
+            "Conservation": "Hifzullah"
+        },
+        {
+            "Renewable Energy": "O'zayadi"
+        },
+        {
+            "Climate Change": "Iklim o'zgarishi"
+        },
+        {
+            "Pollution Control": "Aniq suyuqlik"
+        },
+        {
+            "Water Treatment": "Su aritish"
+        },
+        {
+            "Air Quality": "Havo sifati"
+        },
+        {
+            "Environmental Impact Assessment": "Ekologik ta'sirni baholash"
+        },
+        {
+            "Waste Management": "O'zbekistonda atik borish"
+        },
+        {
+            "Recycling": "Qayta ishlash"
+        },
+        {
+            "Biodiversity": "Biodiversitet"
+        },
+        {
+            "Ecological Restoration": "Ekologik tiklash"
+        },
+        {
+            "Green Infrastructure": "Yashil tuzilma"
+        },
+        {
+            "Environmental Monitoring": "Ekologik monitoring"
+        },
+        {
+            "Sustainable Design": "Ustiqbol dizayni"
+        },
+        {
+            "Hazardous Waste": "Xavfsiz atik"
+        },
+        {
+            "Carbon Footprint": "Karbon izi"
+        },
+        {
+            "Environmental Regulations": "Ekologik huquqlar"
+        },
+        {
+            "Environmental Policy": "Ekologiya siyosati"
+        },
+        {
+            "Soil Remediation": "Yer qurish"
+        },
+        {
+            "Wetland Restoration": "Buzliqni tiklash"
+        },
+        {
+            "Environmental Modeling": "Ekologik modelleme"
+        },
+        {
+            "Environmental Health": "Ekologik salomatlik"
+        },
+        {
+            "Green Building": "Yashil qurilma"
+        },
+        {
+            "Environmental Compliance": "Ekologik muvofiqiyat"
+        },
+        {
+            "Environmental Management System": "Ekologik boshqaruv tizimi"
+        },
+        {
+            "Ecotoxicology": "Ekotoksikologiya"
+        },
+        {
+            "Wildlife Conservation": "Yashovchi hayotni saqlash"
+        },
+        {
+            "Environmental Justice": "Ekologiya adolati"
+        },
+        {
+            "Air Pollution": "Havo yog'ilishi"
+        },
+        {
+            "Water Pollution": "Su yog'ilishi"
+        },
+        {
+            "Soil Pollution": "Yer yog'ilishi"
+        },
+        {
+            "Noise Pollution": "Shovvoz yog'ilishi"
+        },
+        {
+            "Remediation Technologies": "Tiklash texnologiyalari"
+        },
+        {
+            "Environmental Ethics": "Ekologiya etika"
+        },
+        {
+            "Greenhouse Gas": "Kafolatli energiya"
+        },
+        {
+            "Clean Energy": "Ekologik baholash"
+        },
+        {
+            "Environmental Assessment": "Ekologik rejalashtirish"
+        },
+        {
+            "Environmental Planning": "Yashil kimyo"
+        },
+        {
+            "Green Chemistry": "Ustiqbolish texnologiyasi"
+        },
+        {
+            "Sustainable Agriculture": "Karbon saqlash"
+        },
+        {
+            "Carbon Sequestration": "Ekologik ta'lim"
+        },
+        {
+            "Environmental Education": "O'zgartiriladigan resurslar"
+        },
+        {
+            "Renewable Resources": "Alternativ energiya"
+        },
+        {
+            "Alternative Energy": "Yashil texnologiya"
+        },
+        {
+            "Green Technology": "Ekologik ustiqbolish"
+        },
+        {
+            "Environmental Sustainability": "Ekologik muammolar uchun injeneriya yechimlari"
+        },
+        {
+            "Environmental Engineering Solutions": "Ekologik qonun"
+        },
+        {
+            "Environmental Law": "Ekologiya fanlari"
+        },
+        {
+            "Environmental Science": "Yashil iqtisodiyot"
+        },
+        {
+            "Green Economy": "Ustiqbolishning o'zgarishi"
+        },
+        {
+            "Sustainable Development": "Ekologik monitoring"
+        },
+        {
+            "Eco-friendly": "Ozon qatlam"
+        },
+        {
+            "Ozone Layer": "Ozon qatlam"
+        },
+        {
+            "Aquatic Ecology": "Suv ekologiyasi"
+        },
+        {
+            "Environmental Conservation": "Ekologik monitoring"
+        },
+        {
+            "Environmental Monitoring": "Ekologik monitoring"
+        },
+        {
+            "Environmental Stewardship": "Ekologik mudofaa"
+        },
+        {
+            "Environmental Restoration": "Ekologik tiklash"
+        },
+        {
+            "Zero Waste": "Nol atik"
+        },
+        {
+            "Circular Economy": "Tsirkulyar iqtisodiyot"
+        },
+        {
+            "Environmental Resilience": "Yashil injeneriya"
+        },
+        {
+            "Emission Reduction": "Karbon savdo"
+        },
+        {
+            "Sustainable Transportation": "Ustiqbolish transporti"
+        },
+        {
+            "Urban Sustainability": "Shahar ustiqbolish"
+        },
+        {
+            "Environmental Impact Statement": "Ekologik ta'sirning baholash"
+        },
+        {
+            "Environmental Risk Assessment": "Ekologik risk baholash"
+        },
+        {
+            "Waste Reduction": "Atik kamaytirish"
+        },
+        {
+            "Environmental Innovation": "Ekologik innovatsiyalar"
+        },
+        {
+            "Conservation Biology": "Hifzullah biologiyasi"
+        },
+        {
+            "Environmental Monitoring System": "Ekologik monitoring tizimi"
+        },
+        {
+            "Environmental Design": "Ekologik dizayn"
+        },
+        {
+            "Carbon Trading": "Karbon savdo"
+        },
+        {
+            "Environmental Auditing": "Ekologik tekshiruvi"
+        },
+        {
+            "Ecological Footprint": "Ekologik tadbirlar"
+        },
+        {
+            "Environmental Conservation": "Ekologik turar joylashish"
+        },
+        {
+            "Low-Impact Development": "Ekologik muvofiqlikni pastga solish"
+        },
+        {
+            "Environmental Advocacy": "Ekologik advokatiya"
+        },
+        {
+            "Green Infrastructure": "Yashil tuzilma"
+        },
+        {
+            "Environmental Conservation": "Ekologik saqlash"
+        },
+        {
+            "Sustainable Architecture": "Ustiqbol dizayni"
+        },
+        {
+            "Green Living": "Yashil yashash"
+        },
+        {
+            "Environmental Restoration": "Ekologik tiklash"
+        },
+        {
+            "Environmental Impact Mitigation": "Ekologik ta'sirni pastga solish"
+        },
+        {
+            "Environmental Health and Safety": "Ekologik salomatlik va xavfsizlik"
+        },
+        {
+            "Green Consumerism": "Yashil iste'mol"
+        },
+        {
+            "Sustainable Urban Development": "Shahar ustiqbolishi"
+        },
+        {
+            "Environmental Awareness": "Ekologik xavfsizlik"
+        },
+        {
+            "Eco-friendly Practices": "Ekologik fikrlar"
+        },
+        {
+            "Water Conservation": "Su taqsimoti"
+        },
+        {
+            "Environmental Engineering Principles": "Ekologik injeneriya prinsiplari"
+        },
+        {
+            "Sustainable Resource Management": "Ustiqbolish resurslarni boshqarish"
+        },
+        {
+            "Environmental Analysis": "Ekologik tahlil"
+        },
+        {
+            "Environmental Governance": "Ekologik boshqaruv"
+        },
+        {
+            "Ecological Sustainability": "Ekologik sodir etish"
+        }
+    ]
+}

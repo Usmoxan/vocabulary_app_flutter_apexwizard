@@ -1,0 +1,301 @@
+{
+    "vocabulary": [
+        {
+            "Industrial": "Sanoat"
+        },
+        {
+            "Engineering": "Injenering"
+        },
+        {
+            "Efficiency": "Effektivlik"
+        },
+        {
+            "Productivity": "Produktivlik"
+        },
+        {
+            "Optimization": "Optimallashtirish"
+        },
+        {
+            "Manufacturing": "Ishlab chiqarish"
+        },
+        {
+            "Process": "Texnologiya"
+        },
+        {
+            "Systems": "Tizimlar"
+        },
+        {
+            "Operations": "Operatsiyalar"
+        },
+        {
+            "Lean Manufacturing": "Lean ishlab chiqarish"
+        },
+        {
+            "Six Sigma": "Six Sigma"
+        },
+        {
+            "Quality Control": "Sifatni boshqarish"
+        },
+        {
+            "Supply Chain": "Ta'minot zanjiri"
+        },
+        {
+            "Logistics": "Logistika"
+        },
+        {
+            "Facility Layout": "Moliya loyihasi"
+        },
+        {
+            "Workforce Planning": "Ish jadvali"
+        },
+        {
+            "Ergonomics": "Ergonomika"
+        },
+        {
+            "Time and Motion Study": "Vaqt va harakat tadqiqoti"
+        },
+        {
+            "Kaizen": "Kaizen"
+        },
+        {
+            "Value Stream Mapping": "Qimmatbaho proyektlar chiziqlash"
+        },
+        {
+            "Kanban": "Kanban"
+        },
+        {
+            "JIT (Just-In-Time)": "JIT (Faqat-To'g'ri vaqt)"
+        },
+        {
+            "Assembly Line": "Qurilish liniyasi"
+        },
+        {
+            "Automation": "Avtomatlashtirish"
+        },
+        {
+            "Robotics": "Robototexnika"
+        },
+        {
+            "Material Handling": "Materiallar boshqarish"
+        },
+        {
+            "Inventory Management": "Inventar boshqarish"
+        },
+        {
+            "Forecasting": "Ta'qiqot"
+        },
+        {
+            "Production Planning": "Ishlab chiqarishni rejalashtirish"
+        },
+        {
+            "Scheduling": "Jadval"
+        },
+        {
+            "Maintenance": "Texnik xizmat"
+        },
+        {
+            "Reliability Engineering": "Xavfsizlik"
+        },
+        {
+            "Total Productive Maintenance (TPM)": "Umumiy ishlatilgan xizmat"
+        },
+        {
+            "Root Cause Analysis": "Asosiy sabablar tahlili"
+        },
+        {
+            "Failure Mode and Effect Analysis (FMEA)": "Xato usullar va tasir tahlili (FMEA)"
+        },
+        {
+            "Industrial Safety": "Sanoat xavfsizligi"
+        },
+        {
+            "Occupational Health": "Korxona sog'lig'i"
+        },
+        {
+            "Human Factors Engineering": "Inson salohiyati injeneriyasi"
+        },
+        {
+            "Statistical Process Control (SPC)": "Statistik uslub boshqarish (SPC)"
+        },
+        {
+            "Design of Experiments (DOE)": "Tajarriba loyihasi (DOE)"
+        },
+        {
+            "Facility Design": "Sanoat dizayni"
+        },
+        {
+            "Plant Layout": "Korxona tuzilishi"
+        },
+        {
+            "Energy Management": "Energiya boshqarish"
+        },
+        {
+            "Sustainability": "Sutemirlik"
+        },
+        {
+            "Waste Reduction": "Oqimni kamaytirish"
+        },
+        {
+            "Environmental Impact": "Ekologik ta'sir"
+        },
+        {
+            "Cost Analysis": "Narx tahlili"
+        },
+        {
+            "Budgeting": "Bajet"
+        },
+        {
+            "Capital Expenditure": "Kapital xarajatlar"
+        },
+        {
+            "Value Engineering": "Qiymatli xizmat"
+        },
+        {
+            "Project Management": "Proyekt boshqarish"
+        },
+        {
+            "Decision Analysis": "Qabul qilish"
+        },
+        {
+            "Operations Research": "Operatsiyalar tajribasi"
+        },
+        {
+            "Simulation": "Simulyatsiya"
+        },
+        {
+            "Industrial Psychology": "Sanoat psixologiyasi"
+        },
+        {
+            "Work Measurement": "Ishni o'lchash"
+        },
+        {
+            "Plant Engineering": "Korxona injeneriyasi"
+        },
+        {
+            "Supply Chain Management": "Ta'minot zanjiri boshqarish"
+        },
+        {
+            "Procurement": "Taminotxona boshqarish"
+        },
+        {
+            "Vendor Management": "Sifatni nazorat qilish"
+        },
+        {
+            "Quality Assurance": "Me'todologiya"
+        },
+        {
+            "Benchmarking": "Dastlabki tuzilma"
+        },
+        {
+            "Continuous Improvement": "Dastlabki yangilanish"
+        },
+        {
+            "Standardization": "Standartlashtirish"
+        },
+        {
+            "CAD (Computer-Aided Design)": "Kompyuter yordamida dizayn (CAD)"
+        },
+        {
+            "CAM (Computer-Aided Manufacturing)": "Kompyuter yordamida ishlab chiqarish (CAM)"
+        },
+        {
+            "RFID (Radio-Frequency Identification)": "RFID (Radio-chastotali identifikatsiya)"
+        },
+        {
+            "5S Methodology": "5S Metodologiyasi"
+        },
+        {
+            "Cellular Manufacturing": "Qaror kuni"
+        },
+        {
+            "Discrete Event Simulation": "Diskret tadbirlar simulatsiyasi"
+        },
+        {
+            "Facility Expansion": "Korxonani kengaytirish"
+        },
+        {
+            "Demand Forecasting": "Talabni oldini olish"
+        },
+        {
+            "Manufacturing Engineering": "Ishlab chiqarish injeneriyasi"
+        },
+        {
+            "Product Development": "Mahsulotni ishlab chiqarish"
+        },
+        {
+            "Resource Allocation": "Resurslarni bo'shatish"
+        },
+        {
+            "Operations Control": "Operatsiyalar boshqarish"
+        },
+        {
+            "Job Design": "Ish joyini dizayn qilish"
+        },
+        {
+            "Industrial Relations": "Sanoat aloqalar"
+        },
+        {
+            "Plant Performance Metrics": "Korxonada faoliyat"
+        },
+        {
+            "Operations Strategy": "Korxonaning boshqarish strategiyasi"
+        },
+        {
+            "Reliability Centered Maintenance (RCM)": "Yomonlashtirish boshqarish (RCM)"
+        },
+        {
+            "Total Quality Management (TQM)": "Umumiy sifat boshqarish (TQM)"
+        },
+        {
+            "Line Balancing": "Line Balans"
+        },
+        {
+            "Job Shop": "Buyurtmachi ishlab chiqarish"
+        },
+        {
+            "Assembly Station": "Tadbirlar joyi"
+        },
+        {
+            "Capacity Planning": "Birlashgan mahsulot"
+        },
+        {
+            "Facility Planning": "Korxonaning rivojlanishi"
+        },
+        {
+            "Industrial Data Analysis": "Sanoat statistikasi"
+        },
+        {
+            "Material Flow": "Materiallar oqimi"
+        },
+        {
+            "Facility Maintenance": "Korxona yuritish"
+        },
+        {
+            "Enterprise Resource Planning (ERP)": "Korxona resurslari rejalashtirish (ERP)"
+        },
+        {
+            "Flexible Manufacturing System (FMS)": "Oson ishlab chiqarish tizimi (FMS)"
+        },
+        {
+            "Operational Excellence": "Ishlab chiqarishda yuqori natija"
+        },
+        {
+            "Standard Operating Procedures (SOP)": "Standart operatsion jarayonlar (SOP)"
+        },
+        {
+            "Industrial Ergonomics": "Sanoat ergonomikasi"
+        },
+        {
+            "Industrial Hygiene": "Sanoat gigiyenasi"
+        },
+        {
+            "Procurement Strategy": "Taminot tizimi strategiyasi"
+        },
+        {
+            "Vendor Evaluation": "Taminotchilarni baholash"
+        },
+        {
+            "Industrial Revolution": "Sanoat inqirozi"
+        }
+    ]
+}

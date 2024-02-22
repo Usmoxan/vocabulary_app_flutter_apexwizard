@@ -1,0 +1,301 @@
+{
+    "vocabulary": [
+        {
+            "Dynamics": "Dinamika"
+        },
+        {
+            "Thermodynamics": "Termodinamika"
+        },
+        {
+            "Kinematics": "Kinematika"
+        },
+        {
+            "Fluid Mechanics": "Moy"
+        },
+        {
+            "Statics": "Statika"
+        },
+        {
+            "Materials Science": "Materiallar Ilmi"
+        },
+        {
+            "Stress Analysis": "Stress Analizi"
+        },
+        {
+            "Vibration": "Vibratsiya"
+        },
+        {
+            "Robotics": "Robototexnika"
+        },
+        {
+            "Mechanism": "Mexanizm"
+        },
+        {
+            "Gear": "Gir"
+        },
+        {
+            "Cam": "Kam"
+        },
+        {
+            "Crankshaft": "Kreyksheft"
+        },
+        {
+            "Piston": "Piston"
+        },
+        {
+            "Turbocharger": "Turboqosiq"
+        },
+        {
+            "Torsion": "Torsiyon"
+        },
+        {
+            "Fatigue": "Utrof"
+        },
+        {
+            "Friction": "Tirtish"
+        },
+        {
+            "Lubrication": "Sildirish"
+        },
+        {
+            "Hydraulics": "Gidrolika"
+        },
+        {
+            "Pneumatics": "Pnevmatika"
+        },
+        {
+            "Finite Element Analysis (FEA)": "Finite Element Tahlil (FEA)"
+        },
+        {
+            "CNC Machining": "CNC Frezalash"
+        },
+        {
+            "CAD (Computer-Aided Design)": "CAD (Kompyuter Yordamida Dizayn)"
+        },
+        {
+            "CAM (Computer-Aided Manufacturing)": "CAM (Kompyuter Yordamida Ishitish)"
+        },
+        {
+            "Tolerance": "Tolerans"
+        },
+        {
+            "CNC Milling": "CNC Frezalovchi"
+        },
+        {
+            "CNC Turning": "CNC Tizimida Povarot"
+        },
+        {
+            "Lathe": "Tornavida"
+        },
+        {
+            "Milling Machine": "Frezalovchi"
+        },
+        {
+            "Precision": "Yakkamarg'aray"
+        },
+        {
+            "Bearings": "Gir"
+        },
+        {
+            "Shafts": "Tapayishlar"
+        },
+        {
+            "Gears": "Zang'orlar"
+        },
+        {
+            "Springs": "Pruzhina"
+        },
+        {
+            "Fasteners": "Jangovarlar"
+        },
+        {
+            "Welding": "Tiqish"
+        },
+        {
+            "Casting": "Oq"
+        },
+        {
+            "Forging": "Quloq"
+        },
+        {
+            "Injection Molding": "Inzhektorlik Uskunalari"
+        },
+        {
+            "Rapid Prototyping": "Tezkor Prototiplash"
+        },
+        {
+            "CNC Programming": "CNC Dasturi"
+        },
+        {
+            "CNC Operator": "CNC Operatori"
+        },
+        {
+            "Mechanical Design": "Mexanika Dizayni"
+        },
+        {
+            "Structural Analysis": "Konstruktsiya Tahlili"
+        },
+        {
+            "Thermodynamic Cycle": "Termoqlob"
+        },
+        {
+            "Heat Transfer": "Issiqlik O'tkazma Tizimi"
+        },
+        {
+            "HVAC (Heating, Ventilation, and Air Conditioning)": "HVAC (Issiqlik, Ventilyatsiya va Shifoxona)"
+        },
+        {
+            "Combustion": "Qorovul"
+        },
+        {
+            "Refrigeration": "Suvroq Energetika"
+        },
+        {
+            "Turbomachinery": "Turbinadagi"
+        },
+        {
+            "Control Systems": "Nizomlar Boshqaruvi"
+        },
+        {
+            "PID Controller": "PID Nizomlashuvi"
+        },
+        {
+            "Robotics Engineering": "Robototexnika"
+        },
+        {
+            "Mechatronics": "Mexatronika"
+        },
+        {
+            "Machine Design": "Mashina Dizayni"
+        },
+        {
+            "Kinetic Energy": "Kinetik Energiya"
+        },
+        {
+            "Potential Energy": "Potentsial Energiya"
+        },
+        {
+            "Renewable Energy": "Yenewable Energiya"
+        },
+        {
+            "Nanotechnology": "Nanotexnologiya"
+        },
+        {
+            "Computational Fluid Dynamics (CFD)": "Komp'yuterli Moy Tahlili (CFD)"
+        },
+        {
+            "Fluid Power": "Moy Kuchlari"
+        },
+        {
+            "Centrifugal Pump": "Sentrobezovoy Nasos"
+        },
+        {
+            "Axial Flow Compressor": "Aksial Korobka"
+        },
+        {
+            "Thermocouple": "Termopara"
+        },
+        {
+            "Pressure Vessel": "Bosimli Uy"
+        },
+        {
+            "Hydropneumatic Suspension": "Gidropnevmatik Suspenziya"
+        },
+        {
+            "Automotive Engineering": "Avto Mexanika"
+        },
+        {
+            "Aerospace Engineering": "Aero Mexanika"
+        },
+        {
+            "Marine Engineering": "Dengiz Mexanika"
+        },
+        {
+            "Power Plant Engineering": "Elektr Energetika"
+        },
+        {
+            "Boiler": "Boiler"
+        },
+        {
+            "Steam Turbine": "Buxt Turbina"
+        },
+        {
+            "Gas Turbine": "Gastrubina"
+        },
+        {
+            "Ergonomics": "Ergonomika"
+        },
+        {
+            "Fatigue Analysis": "Yorgunlik Tahlili"
+        },
+        {
+            "Engineering Materials": "Mexanika Materiallar"
+        },
+        {
+            "Mechanical Properties": "Mexanika Xususiyatlari"
+        },
+        {
+            "Shear Stress": "Qisqaltirish Tirlari"
+        },
+        {
+            "Bending Moment": "Bending Moment"
+        },
+        {
+            "Thermal Expansion": "Harorat Kengaytirish"
+        },
+        {
+            "Heat Exchanger": "Issiqlik Almashtirgich"
+        },
+        {
+            "Nozzle": "Nosilka"
+        },
+        {
+            "Ductility": "Elastiklik"
+        },
+        {
+            "Elasticity": "Termoqosilma"
+        },
+        {
+            "Stress Concentration": "Tress Konsentratsiya"
+        },
+        {
+            "Composite Materials": "Kompozit Materiallar"
+        },
+        {
+            "Corrosion": "Korroziya"
+        },
+        {
+            "Surface Finish": "Sirtqa Finishing"
+        },
+        {
+            "Metrology": "Metrologiya"
+        },
+        {
+            "CNC Lathe": "CNC Tornavida"
+        },
+        {
+            "Gear Ratio": "Gir Nisbati"
+        },
+        {
+            "Mechanical Efficiency": "Mexanika Effektivlik"
+        },
+        {
+            "Torque": "Kuch"
+        },
+        {
+            "Force": "Kuch"
+        },
+        {
+            "Linear Motion": "Lineyka Harakati"
+        },
+        {
+            "Rotational Motion": "Aylanish Harakati"
+        },
+        {
+            "Mechanical Advantage": "Mexanika Afzalligi"
+        },
+        {
+            "Torque Converter": "Turbokonvertor"
+        }
+    ]
+}

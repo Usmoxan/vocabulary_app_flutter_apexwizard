@@ -1,0 +1,304 @@
+{
+    "vocabulary": [
+        {
+            "Voltage": "Aniqqa"
+        },
+        {
+            "Current": "Hodisa"
+        },
+        {
+            "Resistance": "Qarshi"
+        },
+        {
+            "Ohm's Law": "Ohmning qonuni"
+        },
+        {
+            "Circuit": "Elektr tizim"
+        },
+        {
+            "Capacitor": "Kondensator"
+        },
+        {
+            "Inductor": "Induktor"
+        },
+        {
+            "Transformer": "Transformator"
+        },
+        {
+            "Diode": "Diod"
+        },
+        {
+            "Transistor": "Tranzistor"
+        },
+        {
+            "Integrated Circuit (IC)": "Integratsion Chiqindi (IC)"
+        },
+        {
+            "Microcontroller": "Mikrokontroller"
+        },
+        {
+            "Oscillator": "Ostsillyator"
+        },
+        {
+            "Amplifier": "Amplifikator"
+        },
+        {
+            "Resistor": "Rezistor"
+        },
+        {
+            "Conductance": "Konduktorlik"
+        },
+        {
+            "Semiconductor": "Poluprovodnik"
+        },
+        {
+            "Superconductor": "Superprovodnik"
+        },
+        {
+            "Circuit Board": "Elektr devori"
+        },
+        {
+            "Power Supply": "Kuch ta'minoti"
+        },
+        {
+            "Alternating Current (AC)": "O'zgaruvchan toqima (OT)"
+        },
+        {
+            "Direct Current (DC)": "To'g'ridan to'g'ri toqima (TT)"
+        },
+        {
+            "Electric Field": "Elektr maydon"
+        },
+        {
+            "Magnetic Field": "Magnet maydon"
+        },
+        {
+            "Electromagnetism": "Elektromagnetizm"
+        },
+        {
+            "Electric Motor": "Elektr motor"
+        },
+        {
+            "Generator": "Generator"
+        },
+        {
+            "Voltage Regulator": "Aniqlovchi voltage"
+        },
+        {
+            "Rectifier": "Rektifikator"
+        },
+        {
+            "Switch": "Qattiq"
+        },
+        {
+            "Relay": "Rele"
+        },
+        {
+            "Solenoid": "Soleynoid"
+        },
+        {
+            "Electric Power": "Elektr quvvat"
+        },
+        {
+            "Power Factor": "Elektr kuch"
+        },
+        {
+            "Impedance": "Impedansiya"
+        },
+        {
+            "Ground": "Yer"
+        },
+        {
+            "Short Circuit": "Qisqa toqima"
+        },
+        {
+            "Open Circuit": "Ochiq toqima"
+        },
+        {
+            "Electric Shock": "Elektr zarba"
+        },
+        {
+            "Electromagnetic Spectrum": "Elektromagnit spektri"
+        },
+        {
+            "Radio Frequency (RF)": "Radiotizim (RT)"
+        },
+        {
+            "Microwave": "Mikrovolnovoy"
+        },
+        {
+            "Antenna": "Antenna"
+        },
+        {
+            "Transmission Line": "Uzatish liniyasi"
+        },
+        {
+            "Waveguide": "Tarmoq"
+        },
+        {
+            "Modulation": "Modulyatsiya"
+        },
+        {
+            "Demodulation": "Demodulyatsiya"
+        },
+        {
+            "Digital Signal Processing": "Raqamli ishlov"
+        },
+        {
+            "Analog Signal": "Analog ishlov"
+        },
+        {
+            "Digital Signal": "Raqamli ishlov"
+        },
+        {
+            "Logic Gate": "Logika qapisi"
+        },
+        {
+            "Binary Code": "Binar kodi"
+        },
+        {
+            "Microprocessor": "Mikroprotsessor"
+        },
+        {
+            "Communication Systems": "Kommunikatsiya tizimlari"
+        },
+        {
+            "Fiber Optics": "Optika shuha"
+        },
+        {
+            "Telecommunications": "Telekommunikatsiya"
+        },
+        {
+            "Satellite Communication": "Quyoshli aloqa"
+        },
+        {
+            "Radar": "Radar"
+        },
+        {
+            "Control System": "Boshqaruv tizimi"
+        },
+        {
+            "Feedback": "Qayta aloqa"
+        },
+        {
+            "Automation": "Avtomatlashtirish"
+        },
+        {
+            "Robotics": "Robototexnika"
+        },
+        {
+            "Sensors": "Sensorlar"
+        },
+        {
+            "Actuators": "Aktivatorlar"
+        },
+        {
+            "Power Electronics": "Elektr elektronika"
+        },
+        {
+            "Voltage Divider": "Voltage bo'linishi"
+        },
+        {
+            "Current Divider": "Current bo'linishi"
+        },
+        {
+            "Instrumentation": "Instrumentlash"
+        },
+        {
+            "Measurement": "O'lchash"
+        },
+        {
+            "Multimeter": "Multimetr"
+        },
+        {
+            "Oscilloscope": "Osiloskop"
+        },
+        {
+            "Signal Generator": "Signal generatsiyasi"
+        },
+        {
+            "Electric Network": "Elektr tarmoq"
+        },
+        {
+            "Grid": "Tarmoq"
+        },
+        {
+            "Smart Grid": "Smart tarmoq"
+        },
+        {
+            "Renewable Energy": "Yenewr energetika"
+        },
+        {
+            "Photovoltaic": "Fotovoltaika"
+        },
+        {
+            "Wind Turbine": "Shamol turbinasi"
+        },
+        {
+            "Battery": "Batareya"
+        },
+        {
+            "Energy Storage": "Energiyani saqlash"
+        },
+        {
+            "Electrical Safety": "Elektrniy xavfsizlik"
+        },
+        {
+            "Earthing": "Yerostirish"
+        },
+        {
+            "Lightning Protection": "Yorug'lik himoyasi"
+        },
+        {
+            "Circuit Breaker": "Elektr to'xtatuvchi"
+        },
+        {
+            "Fuse": "Sigara"
+        },
+        {
+            "Ground Fault": "Yer chegaralari"
+        },
+        {
+            "Insulator": "Yerli"
+        },
+        {
+            "Dielectric": "Elektr kodi"
+        },
+        {
+            "Electrical Code": "Kuch taqsimoti"
+        },
+        {
+            "Power Distribution": "Kuchdan foydalanish"
+        },
+        {
+            "Load Shedding": "Harmonikalar"
+        },
+        {
+            "Harmonics": "Elektr malakasi"
+        },
+        {
+            "Electrical Efficiency": "Motor boshqarish"
+        },
+        {
+            "Motor Control": "Elektr substantsiya"
+        },
+        {
+            "Electrical Substation": "Struktur Analizi"
+        },
+        {
+            "Power Transmission": "Masofaviy sezish"
+        },
+        {
+            "Remote Sensing": "O'rnatilgan tizimlar"
+        },
+        {
+            "Embedded Systems": "Osilaydigan tizimlar"
+        },
+        {
+            "Power Quality": "Elektr kuchligi"
+        },
+        {
+            "Fault Analysis": "Xato tahlili"
+        }
+    ]
+}
