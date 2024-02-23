@@ -1,6 +1,7 @@
 // vocabulary_screen.dart
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:vocabulary/pages/about.dart';
 import 'package:vocabulary/services/vocabulary_service.dart';
 
 import '../model/vocabulary_item.dart';
@@ -29,6 +30,20 @@ class _VocabularyScreenState extends State<VocabularyScreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.name),
+        actions: [
+          IconButton(
+            onPressed: () {
+              Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const AboutPage(),
+                  ));
+            },
+            icon: const Row(
+              children: [Icon(Icons.info), Text('Ilova haqida')],
+            ),
+          )
+        ],
       ),
       body: Container(
         margin: const EdgeInsets.all(8.0),

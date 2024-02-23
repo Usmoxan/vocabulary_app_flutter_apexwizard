@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:vocabulary/pages/about.dart';
 import 'package:vocabulary/pages/vocabulary.dart';
 
 class HomePage extends StatefulWidget {
@@ -55,6 +56,20 @@ class _HomePageState extends State<HomePage> {
     return Scaffold(
       appBar: AppBar(
         title: const Text("Vocabulary"),
+        actions: [
+          IconButton(
+            onPressed: () {
+              Navigator.push(
+                  context,
+                  MaterialPageRoute(
+                    builder: (context) => const AboutPage(),
+                  ));
+            },
+            icon: const Row(
+              children: [Icon(Icons.info), Text('Ilova haqida')],
+            ),
+          )
+        ],
       ),
       body: Padding(
         padding: const EdgeInsets.all(8.0),
