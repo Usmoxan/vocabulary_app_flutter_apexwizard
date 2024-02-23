@@ -26,16 +26,18 @@ class _AboutPageState extends State<AboutPage> {
                 child: Image.asset("assets/icons/ic_launcher.png")),
             const Text(
               "Muallif: Soxibova O’g’iloy Nuraliyevna",
-              style: TextStyle(fontSize: 25),
+              style: TextStyle(fontSize: 20),
+              textAlign: TextAlign.center,
             ),
             const Text(
               "Oliy ta'lim muassasasi: Islom Karimov nomidagi TDTU",
-              style: TextStyle(fontSize: 18),
+              style: TextStyle(fontSize: 16),
+              textAlign: TextAlign.center,
             ),
             const Spacer(),
             const Text(
               "Ilova talqini: 1.0.0",
-              style: TextStyle(fontSize: 18),
+              style: TextStyle(fontSize: 15),
             ),
             const SizedBox(height: 50),
           ],
