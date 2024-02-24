@@ -28,40 +28,20 @@ class _SplashPageState extends State<SplashPage> {
       backgroundColor: Theme.of(context).scaffoldBackgroundColor,
       body: Stack(
         children: [
+          Image.asset(
+            width: double.infinity,
+            height: double.infinity,
+            'assets/icons/background_pattern.jpg',
+            fit: BoxFit.cover,
+          ),
+          Container(
+            color: Colors.black.withOpacity(0.3),
+          ),
           Center(
               child: SizedBox(
                   width: 150,
                   height: 150,
                   child: Image.asset("assets/icons/ic_launcher.png"))),
-          Padding(
-            padding: const EdgeInsets.all(15.0),
-            child: Align(
-              alignment: Alignment.bottomCenter,
-              child: Row(
-                mainAxisAlignment: MainAxisAlignment.center,
-                children: [
-                  const Text(
-                    "Powered by",
-                    style: TextStyle(color: Colors.grey, fontSize: 13),
-                  ),
-                  SizedBox(
-                    width: 40,
-                    height: 40,
-                    child: Center(
-                      child: Image.asset("assets/icons/apex_logo.png"),
-                    ),
-                  ),
-                  const Text(
-                    "ApexWizard",
-                    style: TextStyle(
-                        fontFamily: 'ElMessiri',
-                        color: Color.fromARGB(255, 44, 44, 44),
-                        fontSize: 15),
-                  ),
-                ],
-              ),
-            ),
-          )
         ],
       ),
     );

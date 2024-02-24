@@ -24,15 +24,32 @@ class _AboutPageState extends State<AboutPage> {
                 width: 150,
                 height: 150,
                 child: Image.asset("assets/icons/ic_launcher.png")),
-            const Text(
-              "Muallif: Soxibova O’g’iloy Nuraliyevna",
-              style: TextStyle(fontSize: 20),
-              textAlign: TextAlign.center,
-            ),
-            const Text(
-              "Oliy ta'lim muassasasi: Islom Karimov nomidagi TDTU",
-              style: TextStyle(fontSize: 16),
-              textAlign: TextAlign.center,
+            const Padding(
+              padding: EdgeInsets.all(15.0),
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.start,
+                crossAxisAlignment: CrossAxisAlignment.center,
+                children: [
+                  Text(
+                    "Muallif:",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                  ),
+                  Text(
+                    "Soxibova O’g’iloy Nuraliyevna\nXudoyberdiyeva Gulasal Shuxratovna",
+                    style: TextStyle(fontSize: 20),
+                    textAlign: TextAlign.center,
+                  ),
+                  Text(
+                    "Oliy ta'lim muassasasi:",
+                    style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
+                  ),
+                  Text(
+                    "Islom Karimov nomida Toshkent davlat texnika universiteti",
+                    style: TextStyle(fontSize: 20),
+                    textAlign: TextAlign.center,
+                  ),
+                ],
+              ),
             ),
             const Spacer(),
             const Text(

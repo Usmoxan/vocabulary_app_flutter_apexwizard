@@ -13,41 +13,58 @@ class _HomePageState extends State<HomePage> {
   final List<Map<String, String>> gridData = [
     {
       "name": "Mechanical Engineering",
-      "path": "assets/data/mechanical-engineering.json"
+      "path": "assets/data/mechanical-engineering.json",
+      "icon_name": "assets/icons/Mechanical.png"
     },
-    {"name": "Civil Engineering", "path": "assets/data/civil-engineering.json"},
+    {
+      "name": "Civil Engineering",
+      "path": "assets/data/civil-engineering.json",
+      "icon_name": "assets/icons/Civil.png"
+    },
     {
       "name": "Electrical Engineering",
-      "path": "assets/data/electrical-engineering.json"
+      "path": "assets/data/electrical-engineering.json",
+      "icon_name": "assets/icons/Electrical.png"
     },
     {
       "name": "Chemical Engineering",
-      "path": "assets/data/chemical-engineering.json"
+      "path": "assets/data/chemical-engineering.json",
+      "icon_name": "assets/icons/Chemical.png"
     },
     {
       "name": "Computer Engineering",
-      "path": "assets/data/computer-engineering.json"
+      "path": "assets/data/computer-engineering.json",
+      "icon_name": "assets/icons/Computer.png"
     },
-    {"name": "Aerospace", "path": "assets/data/aerospace.json"},
+    {
+      "name": "Aerospace",
+      "path": "assets/data/aerospace.json",
+      "icon_name": "assets/icons/Aerospace.png"
+    },
     {
       "name": "Biomedical Engineering",
-      "path": "assets/data/biomedical-engineering.json"
+      "path": "assets/data/biomedical-engineering.json",
+      "icon_name": "assets/icons/Biomedical.png"
     },
     {
       "name": "Industrial Engineering",
-      "path": "assets/data/industrial-engineering.json"
+      "path": "assets/data/industrial-engineering.json",
+      "icon_name": "assets/icons/Industrial.png"
     },
     {
       "name": "Environmental Engineering",
-      "path": "assets/data/environmental-engineering.json"
+      "path": "assets/data/environmental-engineering.json",
+      "icon_name": "assets/icons/Environmental.png"
     },
     {
       "name": "Nuclear Engineering",
-      "path": "assets/data/nuclear-engineering.json"
+      "path": "assets/data/nuclear-engineering.json",
+      "icon_name": "assets/icons/Nuclear.png"
     },
     {
       "name": "Telecommunications Engineering",
-      "path": "assets/data/telecommunication-engineering.json"
+      "path": "assets/data/telecommunication-engineering.json",
+      "icon_name": "assets/icons/Telecommunication.png"
     },
   ];
 
@@ -55,7 +72,7 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Vocabulary"),
+        title: const Text("Vocabulary for engineering students"),
         actions: [
           IconButton(
             onPressed: () {
@@ -98,6 +115,11 @@ class _HomePageState extends State<HomePage> {
                   child: Column(
                     mainAxisAlignment: MainAxisAlignment.center,
                     children: [
+                      Image.asset(
+                        gridData[index]['icon_name']!,
+                        width: 100,
+                        height: 100,
+                      ),
                       Text(
                         textAlign: TextAlign.center,
                         gridData[index]['name']!,
