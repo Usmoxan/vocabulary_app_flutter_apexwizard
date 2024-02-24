@@ -26,23 +26,11 @@ class _SplashPageState extends State<SplashPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       backgroundColor: Theme.of(context).scaffoldBackgroundColor,
-      body: Stack(
-        children: [
-          Image.asset(
-            width: double.infinity,
-            height: double.infinity,
-            'assets/icons/background_pattern.jpg',
-            fit: BoxFit.cover,
-          ),
-          Container(
-            color: Colors.black.withOpacity(0.3),
-          ),
-          Center(
-              child: SizedBox(
-                  width: 150,
-                  height: 150,
-                  child: Image.asset("assets/icons/ic_launcher.png"))),
-        ],
+      body: Image.asset(
+        width: double.infinity,
+        height: double.infinity,
+        'assets/icons/background_pattern.jpg',
+        fit: BoxFit.cover,
       ),
     );
   }

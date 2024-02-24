@@ -35,7 +35,7 @@ class _AboutPageState extends State<AboutPage> {
                     style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                   ),
                   Text(
-                    "Soxibova O’g’iloy Nuraliyevna\nXudoyberdiyeva Gulasal Shuxratovna",
+                    "Soxibova O‘g‘iloy Nuraliyevna\nXudoyberdiyeva Gulasal Shuxratovna",
                     style: TextStyle(fontSize: 20),
                     textAlign: TextAlign.center,
                   ),
