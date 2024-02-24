@@ -51,7 +51,7 @@ class _AboutPageState extends State<AboutPage> {
                 ],
               ),
             ),
-            const Spacer(),
+            const Spacer(), 
             const Text(
               "Ilova talqini: 1.0.0",
               style: TextStyle(fontSize: 15),
